@@ -2,7 +2,7 @@
 
 Static web page to practice HTML and CSS skills.
 
-Check it out:
+Visualize it here:
 https://detierrez.github.io/odin-landing/
 
 ----
